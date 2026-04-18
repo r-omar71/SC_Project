@@ -1,0 +1,5 @@
+Refactor the following Java code to improve readability, maintainability, and structure.
+•	Use meaningful variable and method names 
+•	Apply clean code principles 
+•	Improve modularity if possible 
+•	Do not change the logic or functionality
